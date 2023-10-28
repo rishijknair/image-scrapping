@@ -1,6 +1,6 @@
 # image-scrapping
 A code which will help you to collect images faster and more efficiently
-# ************NOTE***********
+# ***********NOTE***********
 You have to install the following dependency 
     requests
     beautifulsoup4
